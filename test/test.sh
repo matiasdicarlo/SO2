@@ -46,3 +46,4 @@ curl --progress-bar "http://${testhost}:8080" \
 echo "===> Image testing complete..."
 cleanup
 exit 0
+
